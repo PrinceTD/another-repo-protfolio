@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.color{
+color: orange;
+}
+section{
+    display: flex;
+}
+.prince{
+    width: 50%;
+   padding-left: 5%;
+   padding-top: 2%;
+}
+.prince img{
+    width: 80%;
+}
+.link_batton{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, brown);
+    color: wheat ;
+    padding: 10px 40px;
+    border-radius: 10px;
+   
+}
+.top{
+  
+    
+}
